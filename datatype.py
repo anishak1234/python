@@ -1,2 +1,3 @@
 a = 1 (interger)
-b = "mani"
+b = "mani" (string)
+c = 
