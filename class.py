@@ -7,3 +7,4 @@ ob = Student()
 
 print(ob.name)
 print(ob.age)
+ptiny
